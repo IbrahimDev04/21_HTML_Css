@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+}
+
+.container{
+    width: 68.2%;
+    margin-left: 15.9%;
+}
+
+.container_new{
+    margin-left: 2%;
+    
+}
+
+nav img{
+    padding-top: 40px;
+    padding-bottom: 7px;
+}
+
+.dp-flex{
+    display: flex;
+}
+
+nav i{
+    padding-right: 13px;
+    font-size: 14px;
+    color: rgba(128, 128, 128, 0.433);
+}
+
+@media only screen and (max-width: 1400px) {
+    .asd {
+      display: grid;
+    }
+  }
+
+
+nav li{
+    color: rgb(209, 209, 209);
+    align-items: center ;
+    padding:20px 21px;
+    font-weight: bold;
+}
+
+
+ul{
+    list-style: none;
+    
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.jf-around{
+    justify-content: space-around;
+}
+
+.ob-weight{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+
+section p {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.hr-bottom{
+    border-bottom: 1px solid grey;
+}
+
+.bd-radius{
+    border-radius: 4px;
+}
+
+.card-weigth{
+    margin-left: 3%;
+}
+
+
+
+.fn-size{
+    font-size: 15px;
+}
+
+.card-content{
+    padding: 12px 42px;
+}
+
+
+section .card-info p{
+    width: 475.25px;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8px 70px; 
+}
+.card-company p{
+    padding: 0;
+}
+.card-company{
+    margin-left: 30px;
+    text-align: center;
+    padding: 0 40px;
+}
+
+.card-company img{
+    padding: 15px;
+}
+
+.txt-grey{
+    color: grey;
+}
+
+.ft-padding{
+    padding: 25px 10px;
+}
+
+.jc-sbetween{
+    justify-content: space-between;
+}
+
+.copy-right {
+    padding-right: 10%;
+}
+
+
+
